@@ -17,9 +17,10 @@ def difference_of_diagonals(matrix: Matrix):
     sum_right_diagonal = 0
 
     for index in range(size):
-        reverse_index = -index+1
-        sum_left_diagonal = matrix[index][index]
-        sum_right_diagonal = matrix[reverse_index][index]
+        reverse_index = -(index+1)
+
+        sum_left_diagonal += matrix[index][index]
+        sum_right_diagonal += matrix[reverse_index][index]
 
     difference = sum_left_diagonal - sum_right_diagonal
     
