@@ -1,6 +1,6 @@
 # TDD Engenharia de Software
 
-Co-autores: [Luisfelipeqt](github.com/Luisfelipeqt) e Laryssa Melonio
+Co-autores: [Luisfelipeqt](https://github.com/Luisfelipeqt) e [Laryssa Melonio](https://github.com/Larymelonio)
 
 Esse repositório é a resposta para a tarefa da disciplina de Engenharia de Software da UNDB.
 
